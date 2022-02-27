@@ -1098,7 +1098,7 @@ img {
   text-align: center;
   background: #f5f5f5;
   position: relative;
- 
+  z-index: -11;
   box-shadow: 0px 0px 0px 1px;
 }
 
@@ -1108,7 +1108,7 @@ img {
   bottom: 75%;
   transform: translateX(-50%);
   font-size: 40px;
-
+  z-index: -22;
   background: #fff;
 
 }
